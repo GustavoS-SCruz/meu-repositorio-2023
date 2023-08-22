@@ -2,3 +2,5 @@
 Primeira aula prática de Git e Github na Sptech
 
 Alteração feita no remoto (direto no GitHub) 🧠 
+
+Alteração feita localmente (direto na minha maquina)
